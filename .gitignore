@@ -1,0 +1,23 @@
+# .NET build files
+backend/bin/
+backend/obj/
+*.user
+*.suo
+*.cache
+
+# React / Node build files
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Environment files
+.env
+.env.local
+frontend/.env
+frontend/.env.local
+backend/.env
+
+# OS / editor files
+.DS_Store
+.vscode/
+.idea/
